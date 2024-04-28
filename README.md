@@ -4,7 +4,7 @@
 
 
 
-![Static Badge](https://img.shields.io/badge/:badgeContent?logo=spring&logoColor=%2361DAFB&label=spring)
+![Spring](https://img.shields.io/badge/-spring?logo=spring&logoColor=%2361DAFB&label=spring)
 
 
 ![Spring](https://img.shields.io/badge/-Spring?style=for-the-badge&logo=css3)

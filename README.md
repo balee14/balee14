@@ -1,6 +1,6 @@
 # Hi, I'm Terry(이성훈) <img src="images/terry-logo.png" height="180">
-### Dream CTO
-#### Team Leader 👋 = Tech Lead + Engineering Manager
+## Dream CTO
+### Team Leader 👋 = Tech Lead + Engineering Manager
 
 - Email : balee14@naver.com
 - Location : 영등포구 문래동

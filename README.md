@@ -1,4 +1,4 @@
-# Hi, I'm 이성훈(Terry) <img src="images/terry-logo.png" height="180"></h1>
+# Hi, I'm 이성훈(Terry) <img src="images/terry-logo.png" height="180">
 ## Dream CTO
 ### Team Leader 👋 = Tech Lead + Engineering Manager
 
